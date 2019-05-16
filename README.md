@@ -16,15 +16,14 @@ python findCountour.py
 change the root paths and run:
 
 '''
-python niou.py
+python miou.py
 '''
 
 ## Examples
-<img src="examples/image.png" width = "204" height = "102" />
-<img src="examples/label_color.png" width = "204" height = "102" />
-<img src="examples/label.png" width = "204" height = "102" />
-<img src="examples/dilated_1.png" width = "204" height = "102"  />
-<img src="examples/dilated_5.png" width = "204" height = "102"  />
-<img src="examples/dilated_10.png" width = "204" height = "102" />
+<img src="examples/image.png" width = "204" height = "102" div align=left />
+<img src="examples/label_color.png" width = "204" height = "102" div align=center />
+<img src="examples/label.png" width = "204" height = "102" div align=right />
 
-
+<img src="examples/dilated_1.png" width = "204" height = "102" div align=left />
+<img src="examples/dilated_5.png" width = "204" height = "102" div align=center />
+<img src="examples/dilated_10.png" width = "204" height = "102" div align=right />
